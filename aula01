@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Desafio 01</title>
+</head>
+
+<body>
+
+<p>Desafio das Mensagens</p>
+
+<p>
+* Primeiro paragrafo<br>
+&nbsp;&nbsp;**Segundo paragrafo<br>
+&nbsp;&nbsp;&nbsp;&nbsp;***Terceiro paragrafo<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;***Terceiro paragrafo<br>
+&nbsp;&nbsp;**Segundo paragrafo<br>
+* Primeiro paragrafo
+</p>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Filmes em Emojis</title>
+</head>
+
+<body>
+
+<p>1 🌙 🚲 👉 👉 👽 - E.T. – O Extraterrestre</p>
+
+<p>2 👶 💍 💍 💍 - Senhor dos Anéis</p>
+
+<p>3 🌍 🐒 🐒 🙈 🙉 🙊 - Planeta dos Macacos</p>
+
+<p>4 😈 👠 👜 👗 - O Diabo Veste Prada</p>
+
+<p>5 👨 🍺 🍺 ❌ 👰 - Se Beber Não Case</p>
+
+</body>
+</html>
