@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Aula Imagens</title>
+
+    <!-- 1) Favicon -->
+    <link rel="icon" href="favicon.ico">
+
+</head>
+
+<body>
+
+    <!-- 2) Nome da página -->
+    <h1>Aula Imagens</h1>
+
+    <!-- 3) Título do conteúdo -->
+    <h2>Desafio das Imagens</h2>
+
+    <!-- 4) Subtítulo com o nome da cidade -->
+    <h3>Vila Velha - Espírito Santo</h3>
+
+    <!-- 5) Imagem da cidade -->
+    <img src="vilavelha.jpg" alt="Cidade de Vila Velha">
+
+    <br><br>
+
+    <!-- 6) Imagem com legenda -->
+    <figure>
+        <img src="conventopenha.jpg" alt="Convento da Penha" width="400">
+        <figcaption>Convento da Penha - Cartão postal de Vila Velha</figcaption>
+    </figure>
+
+    <br>
+
+    <!-- 7) Imagem que muda tamanho em telas menores -->
+    <picture>
+
+        <!-- imagem menor quando tela até 760px -->
+        <source media="(max-width: 760px)" srcset="praia-pequena.jpg">
+
+        <!-- imagem normal -->
+        <img src="praia-grande.jpg" alt="Paisagem da Praia de Vila Velha" width="600">
+
+    </picture>
+
+</body>
+
+</html>
